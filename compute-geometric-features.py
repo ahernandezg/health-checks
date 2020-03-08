@@ -1,6 +1,7 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
+import csv
 
 def print_info():
     """Print info to user"""
