@@ -16,3 +16,6 @@ This line was added in local repo to check whether or not three-way merge emerge
 This lines was added to show how conflicts emerge in three-way merges
 
 This line was used to show how to rebase a commit 
+
+This and the following lines were generated in branch refactor. 
+
