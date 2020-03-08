@@ -8,6 +8,11 @@ def print_info():
     return None
 
 
+def compute_volume(area, height):
+    """"Compute volume of rectangle"""
+    return area*height
+
+
 def compute_area(length, width):
     """Compute area of a square/rectangle"""
     return length*width
@@ -19,8 +24,11 @@ def main():
     width = 1.0
 
     area = compute_area(length, width)
-
     print("Area: ", area)
+
+    height = 2.0
+    volume = compute_volume(area, height)
+    print("Volume:", volume)
 
     return None
 
