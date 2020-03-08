@@ -11,6 +11,7 @@ This line was added from design
 
 This line was added from design to check pull
 
-
-
 This line was added in local repo to check whether or not three-way merge emerges
+
+This lines was added to show how conflicts emerge in three-way merges
+
