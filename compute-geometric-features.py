@@ -1,11 +1,16 @@
 
 import numpy as np
 
+
 def print_info():
     """Print info to user"""
     print("""Hello, this script helps you compute the area,volume 
              and perimeter of a rectangle""")
     return None
+
+def compute_perimeter(length, width):
+    """Compute perimeter of rectangle"""
+    return 2*length+2*width
 
 
 def compute_volume(area, height):
@@ -29,6 +34,9 @@ def main():
     height = 2.0
     volume = compute_volume(area, height)
     print("Volume:", volume)
+
+    perimeter = compute_perimeter(length, width)
+    print("Perimeter:", perimeter)
 
     return None
 
