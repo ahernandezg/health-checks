@@ -44,6 +44,12 @@ def compute_area(length, width):
     """Compute area of a square/rectangle"""
     return length*width
 
+def feature_a():
+
+    return None
+
+
+
 
 def main():
 
