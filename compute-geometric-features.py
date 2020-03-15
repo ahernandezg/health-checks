@@ -3,8 +3,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 import csv
 
+
 def compute_new_area():
-    
+
+
+def compute_new_feature():
+
+
     return None
 
 def menu():
