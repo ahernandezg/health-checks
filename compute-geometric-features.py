@@ -20,6 +20,11 @@ def feature_b():
     
     return None
 
+def feature_c():
+
+
+    return None
+
 def menu():
     "Show a operations menu"
     print("1......compute area")
