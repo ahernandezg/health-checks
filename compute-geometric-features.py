@@ -3,6 +3,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import csv
 
+def compute_new_area():
+    
+    return None
+
 def menu():
     "Show a operations menu"
     print("1......compute area")
