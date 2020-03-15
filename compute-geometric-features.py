@@ -12,6 +12,10 @@ def compute_new_feature():
 
     return None
 
+def feature_b():
+    
+    return None
+
 def menu():
     "Show a operations menu"
     print("1......compute area")
